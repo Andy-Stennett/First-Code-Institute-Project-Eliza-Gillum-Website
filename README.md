@@ -1,3 +1,7 @@
+April 4th 19:55
+
+These files were originally developed with Notepad as Codeanywhere wasn't working and I had to get something down on paper, so to speak. I've since downloaded and am using Visual studio for windows but the downside is that the versions are not recorded in Github, only the lates files as I upload them. This isn't a great solution but it's all I have at present. At least VS allows me to speed up the workflow.
+
 April 4th
 Ok, this has been done late in the day as Codeanywhere decided to back up at an unfortunate moment, when I was already strapped for time. In any case, right about now I will upload the files I have just in case I get a repeat of the glitch I had this morning which destroyed several hours work and left me having to re-invent the wheel as well. Later verions and additonal pages will be added as I complete them. 
 
