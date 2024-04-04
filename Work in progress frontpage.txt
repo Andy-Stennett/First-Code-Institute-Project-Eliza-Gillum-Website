@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Website for Eliza Gillum, personal trainer, yoga teacher and and wellness coach">
+	<meta name="keywords" content="personal trainer, yoga, plant based recipes, wellness, london">
+	<meta name="author" content="Andy stennett, Eliza Gillum">
+
+	<link rel="stylesheet" href="style.css">
+	
+	<title>Eliza Gillum Website</title>
+
+</head>
+
+<body>
+
+	<header id="home" class="page-header">
+		<h1>Eliza Gillum</h1>
+		<p>Personal Trainer, Model, Yoga Teacher, Wellness Coach</p>
+	</header>
+
+	
+
+	<nav>
+		<a href="#home" aria-label="Go to the top of the page">Home</a>
+		<a href="#drinks" aria-label="Go to drinks menu section">Drinks Menu</a>
+		<a href="#contact" aria-label="Go to contact information section">Contact</a>
+		<a href="form.html" aria-label="Fill in our survey for your chance to win free coffee">Win Free Coffee</a>
+	</nav>
+
+
+
+  <section id="contact">
+    <h2>Contact</h2>
+
+    <h3>Open times</h3>
+
+    <table>
+      <tr>
+        <th></th>
+        <th>Open</th>
+        <th>Close</th>	
+      </tr>
+      <tr>
+        <td>Mon - Fri</td>
+        <td>09:00</td>
+        <td>21:00</td>
+      </tr>
+      <tr>
+        <td>Weekend</td>
+        <td>10:00</td>
+        <td>22:00</td>
+      </tr>	
+    </table>
+
+    <h3>Get in touch</h3>
+
+    <div>
+      <span class="bold">Phone: </span>
+      <span>012 345 678 910</span>
+    </div>
+    <div>
+      <span class="bold">Email: </span>
+      <span>email@coderscoffeehouse.com</span>
+    </div>
+
+
+    <h3>Address</h3>
+    <p>Coders Coffeehouse,<br>42 Coffeebean street,<br>Dublin</p>
+  </section>
+
+
+  <section>
+    <iframe src="https://bit.ly/2QVfkiy" width="100%" height="300"></iframe>
+  </section>
+
+
+	<footer>
+
+		<span>Find us on:</span>
+
+		<a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)">Facebook</a>
+		<a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)">Instagram</a>
+		<a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)">Twitter</a>
+
+		<p>Copyright © Coders Coffeehouse 2020</p>
+	
+	</footer>
+
+</body>
+
+</html>

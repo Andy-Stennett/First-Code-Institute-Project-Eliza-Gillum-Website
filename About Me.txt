@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Website for Eliza Gillum, personal trainer, yoga teacher and and wellness coach, about me page.">
+	<meta name="keywords" content="personal trainer, yoga, plant based recipes, wellness, london">
+	<meta name="author" content="Andy stennett, Eliza Gillum">
+
+	<link rel="stylesheet" href="style.css">
+	
+	<title>Eliza Gillum Website About Me Page</title>
+
+</head>
+
+
+<header class="page-header">
+
+	<h1>About Eliza</h1>
+	<h2>Welcome to Eliza's World of Wellness</h2>
+</header>
+
+<body>
+
+	<div style="height:180px">
+	</div>
+
+	<div class="about">
+
+		<h3>About Eliza</h3>
+		<p>Eliza is not just your average plant-based recipe creator, yoga instructor, and fitness trainer—she's a passionate advocate for holistic well-being. With a deep-rooted belief in the interconnectedness of mind, body, and spirit, Eliza's mission is to empower others to transform their lives through yoga, mindfulness, and nourishing plant-based foods.</p>
+
+		<h3>Plant-Based Recipes for Vibrant Living</h3>
+		<p>At the heart of Eliza's philosophy is the understanding that what we put into our bodies profoundly impacts our health and vitality. With over a decade of experience crafting simple, fresh, and delicious plant-based recipes, Eliza offers a tantalizing array of culinary delights that nourish the body and tantalize the taste buds. From vibrant salads to hearty soups and mouthwatering mains, her recipes are as nourishing as they are delectable.</p>
+
+		<h3>From Market Stalls to London Fashion Week</h3>
+		<p>Eliza's journey in health and wellness began over 10 years ago, when she launched her plant-based meals at street food markets across London, including iconic destinations like Brick Lane and Camden Market. A true pioneer in the plant-based living movement, Eliza's recipes have garnered attention far and wide, earning features on ITV and attracting a loyal following of personal clients. Her culinary creations have even graced the tables of London Fashion Week, proving that healthy eating can be both stylish and delicious.</p>
+
+		<h3>Mindful Movement for Body and Soul</h3>
+		<p>Eliza's passion for well-being extends beyond the kitchen—she's also a dedicated yoga instructor with a unique approach to health of the mind and body. Trained in traditional Hatha yoga in the sacred lands of India, Eliza understands the transformative power of yoga to unlock the body's full potential. Her classes focus on holding poses for extended periods, allowing practitioners to release energy blocks and cultivate a free flow of vitality throughout the body.</p>
+
+		<h3>A Journey of Self-Discovery</h3>
+		<p>Eliza believes that wellness is not a destination but a journey—one that requires patience, perseverance, and a celebration of every small victory along the way. She encourages her clients to stay focused on their individual paths, knowing that slow progress each day inevitably leads to profound change. With regular practice of the limbs of yoga, Eliza believes that anyone can tap into their innate potential and experience a life of greater balance, vitality, and fulfillment.</p>
+		<h3>Join Eliza on the Path to Wellness</h3>
+		<p>Whether you're seeking nourishing plant-based recipes, rejuvenating yoga classes, or simply a guiding hand on your journey to well-being, Eliza is here to support you every step of the way. With her passion, expertise, and unwavering commitment to holistic health, she invites you to embark on a transformative journey toward a life of vibrant wellness.</p>
+	</div>
+
+
+
+	<footer>
+		<p>Copyright © Andy Stennett, Eliza Gillum 2024</p>
+	
+	</footer>
+
+</body>
+
