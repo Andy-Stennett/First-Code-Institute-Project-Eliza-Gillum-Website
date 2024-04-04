@@ -1,8 +1,13 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+April 4th
+Ok, this has been done late in the day as Codeanywhere decided to back up at an unfortunate moment, when I was already strapped for time. In any case, right about now I will upload the files I have just in case I get a repeat of the glitch I had this morning which destroyed several hours work and left me having to re-invent the wheel as well. Later verions and additonal pages will be added as I complete them. 
 
-Welcome,
+So, the mission, apart from producing a first project, is to help a friend out and build a website for her fledgeling business as a wellness coach. The copy is written by her, with the occasional minor edit by me. The photos were taken by both of us, mine aren't that great because I shot them in a gym in low light without flash so as not to disturb the other users of the gym. I was promised it would be empty but it wasn't. Life goes on. 
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+anyway, first task is to get files on here so, must get cracking.
+
+
+
+
 
 You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
 
