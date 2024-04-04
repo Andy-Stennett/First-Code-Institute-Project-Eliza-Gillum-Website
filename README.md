@@ -1,13 +1,13 @@
-April 4th 19:55
+April 5th 00:45
+So, the mission, apart from producing a first project, is to help a friend out and build a website for her fledgeling business as a wellness coach. her name is Elizabeth Gillum and her contact details are on the front page. The copy is written by her, with the occasional minor edit by me. The photos were taken by both of us, mine aren't that great because I shot them in a gym in low light without flash so as not to disturb the other users of the gym. I was promised it would be empty but it wasn't. Life goes on.
+The food photos were taken by her. I haven't tried the recipes yet.
 
-These files were originally developed with Notepad as Codeanywhere wasn't working and I had to get something down on paper, so to speak. I've since downloaded and am using Visual studio for windows but the downside is that the versions are not recorded in Github, only the lates files as I upload them. This isn't a great solution but it's all I have at present. At least VS allows me to speed up the workflow.
+These files were originally developed with Notepad as Codeanywhere wasn't working and I had to get something down on paper, so to speak. I've since downloaded and am using Visual Studio for windows but the downside is that the versions are not recorded in Github, only the latest files as I upload them. This isn't a great solution but it's all I have at present. At least VS allows me to speed up the workflow.
+Issues that aren't fixed.
 
-April 4th
-Ok, this has been done late in the day as Codeanywhere decided to back up at an unfortunate moment, when I was already strapped for time. In any case, right about now I will upload the files I have just in case I get a repeat of the glitch I had this morning which destroyed several hours work and left me having to re-invent the wheel as well. Later verions and additonal pages will be added as I complete them. 
+On the about and recipe pages there is an awful lot of white space at the bottom which I haven't been able to shrink as yet. Other than that it seems to work ok. It's not loaded with frilly bits, there are more recipes to add, as well as her yoga poses which I will shoot outdoors when weather improves. Some code snippets I have discovered on the W3 website, and colour codes from the links supplied in the course.
 
-So, the mission, apart from producing a first project, is to help a friend out and build a website for her fledgeling business as a wellness coach. The copy is written by her, with the occasional minor edit by me. The photos were taken by both of us, mine aren't that great because I shot them in a gym in low light without flash so as not to disturb the other users of the gym. I was promised it would be empty but it wasn't. Life goes on. 
 
-Anyway, first task is to get files on here so, must get cracking.
 
 
 
