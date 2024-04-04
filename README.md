@@ -3,7 +3,7 @@ Ok, this has been done late in the day as Codeanywhere decided to back up at an 
 
 So, the mission, apart from producing a first project, is to help a friend out and build a website for her fledgeling business as a wellness coach. The copy is written by her, with the occasional minor edit by me. The photos were taken by both of us, mine aren't that great because I shot them in a gym in low light without flash so as not to disturb the other users of the gym. I was promised it would be empty but it wasn't. Life goes on. 
 
-anyway, first task is to get files on here so, must get cracking.
+Anyway, first task is to get files on here so, must get cracking.
 
 
 
