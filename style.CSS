@@ -2,22 +2,20 @@
 
 body {
 	font-family: 'Open Sans', Arial, sans-serif;
-	/* background-image:url("Eliza_Frontpage_background_2.jpg"); */
-	/* background-size:cover; */
+
 }
 
 .left-box
 {
 	width:50vw;
-	/* height:900px; */
-	background-color: rgb(38, 56, 66);
+	background-color:rgb(38, 56, 66);
 }
 
 .right-box
 {
 	width: 50vw;
 	height:1500px;
-	background-image:url("Eliza_Frontpage_background_2.jpg");
+	background-image:url("Eliza_About_Page_image.jpg");
 	background-size:cover;
 	background-position: center;
 	border-width: 2px;
@@ -90,7 +88,6 @@ a:hover {
 
 footer {
 	background-color:grey;
-	/*padding: 1em;*/
 	text-align: center;
 }
 
@@ -127,7 +124,6 @@ legend {
 .about >p
 {
 	color:#FFFFFF;
-	/*color:beige; */
 	margin-left:5vw;
 	margin-right:5vw;
 	text-align:justify;
