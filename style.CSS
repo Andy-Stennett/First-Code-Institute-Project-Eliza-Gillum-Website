@@ -50,7 +50,8 @@ header
 	}
 
 .page-header {
-	height: 10vh;
+	height: 15vh;
+	color:darkgrey;
 	text-align: center;
 	background-color: whitesmoke; 
 }
@@ -69,7 +70,7 @@ strong {
 	}
 
 nav > a {
-	color: beige;
+	color: rgb(36, 2, 63);
 	text-align:left;
 }
 

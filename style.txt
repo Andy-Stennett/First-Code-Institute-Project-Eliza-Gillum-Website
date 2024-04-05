@@ -2,36 +2,57 @@
 
 body {
 	font-family: 'Open Sans', Arial, sans-serif;
-	background-image:url("Eliza_Frontpage_background_2.jpg");
+
+}
+
+.left-box
+{
+	width:50vw;
+	background-color:rgb(38, 56, 66);
+}
+
+.right-box
+{
+	width: 50vw;
+	height:1500px;
+	background-image:url("Eliza_About_Page_image.jpg");
 	background-size:cover;
+	background-position: center;
+	border-width: 2px;
+	border-color: darkgrey;
+	position:relative;
+	left:50vw;
+	top:-1500px;
 }
 
-h1,h2,h3 {
+h1,h2,h3 
+	{
 	font-family: 'Merienda One', 'Brush Script MT', cursive;
-}
+	}
 
-h1 {
+h1 	{
 	font-size: 3rem;
 	text-align:center;
-}
+	}
 
-h2 {
+h2 	{
 	font-size: xx-large;
 	margin-left:5vw;
-}
+	}
 
-h3 {
-	font-size: xx-large;
+h3 	{ 
 	margin-left:5vw;
-}
+	}
 
-header {
-	color: beige;
-}
+header 
+	{
+	color: black;
+	}
 
 .page-header {
-	height: 50vh;
-	text-align: center;    
+	height: 10vh;
+	text-align: center;
+	background-color: whitesmoke; 
 }
 
 .text-white {
@@ -42,9 +63,20 @@ strong {
 	font-size: 1.3rem;
 }
 
+.page-header >nav
+	{
+		text-align:left;
+	}
+
 nav > a {
 	color: beige;
-	margin: 1rem;
+	text-align:left;
+}
+
+.about-nav >nav
+{
+	color: rgb(4, 141, 66);
+	text-align:left;
 }
 
 nav > a:hover {
@@ -55,13 +87,6 @@ nav > a:hover {
 	font-weight: bold;
 }
 
-
-nav
-{
-	text-align:left;
-}
-
-
 a:hover {
 	text-decoration: none;
 	color: chocolate;
@@ -69,7 +94,6 @@ a:hover {
 
 footer {
 	background-color:grey;
-	/*padding: 1em;*/
 	text-align: center;
 }
 
@@ -95,7 +119,7 @@ legend {
 
 .about
 {
-	background-color:rgba(110, 100, 100, 0.3);
+	background-color:rgba(110, 100, 100);
 	font-weight:bold;
 }
 .about >h3
@@ -106,8 +130,7 @@ legend {
 .about >p
 {
 	color:#FFFFFF;
-	/*color:beige; */
-	margin-left:10vw;
-	margin-right:10vw;
+	margin-left:5vw;
+	margin-right:5vw;
 	text-align:justify;
 }
